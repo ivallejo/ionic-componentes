@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="inicio"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Avatar</ion-title>
+    <ion-buttons slot="end">
+      <ion-avatar>
+        <img src="/assets/starLord.jpg" alt="">
+      </ion-avatar>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-chip color="primary" *ngFor="let i of [1,1,1,1,1,1,1,1,1,1,1,1,1,1]">
+    <ion-avatar>
+      <img src="/assets/starLord.jpg" alt="">
+    </ion-avatar>
+    <ion-label>Star Lord</ion-label>
+  </ion-chip>
+  <ion-list>
+    <ion-item *ngFor="let i of [1,1,1,1,1,1,1,1,1,1,1,1,1,1]">
+      <ion-avatar slot="start">
+        <img src="/assets/starLord.jpg" alt="">
+      </ion-avatar>
+      <ion-label>Star Lord</ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>
