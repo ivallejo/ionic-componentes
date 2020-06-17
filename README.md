@@ -10,7 +10,7 @@ Aplicacion creada en Ionic 5, utilizando todos los componentes en orden alfabtic
 
 Para mas información sobre web components ingresar al siguiente link 👉 [Ionic 💙](https://ionicframework.com/docs/components).
 
-![Ionic 5](https://miro.medium.com/max/736/1*BZVqYI7vMevCdbRF2kJIwA.jpeg)
+![Ionic 5](https://www.mindinventory.com/blog/wp-content/uploads/2020/02/ionic5-1520x500.png)
 
 
 
